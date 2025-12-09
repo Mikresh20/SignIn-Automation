@@ -26,5 +26,4 @@
     e.Fix Page Cut-Off While Scrolling: On the login page, the bottom-left part gets cut off when scrolling.
 
 
-## Testcases
-     [Sign-In Test Cases](./docs/SignIn_TestCases.xlsx)
+## The Excel docs file is in docs folder.
